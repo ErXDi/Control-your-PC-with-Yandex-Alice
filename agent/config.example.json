@@ -1,0 +1,6 @@
+{
+  "queue_url": "https://message-queue.api.cloud.yandex.net/b1gXXXXXXXXXXXXXXXXX/dj600000000XXXXXXXXX/alice-pc",
+  "access_key_id": "YCAJEXXXXXXXXXXXXXXXXXXXX",
+  "secret_access_key": "YCXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "pause_seconds": 10
+}
